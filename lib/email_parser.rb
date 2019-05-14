@@ -6,7 +6,7 @@ class EmailParser
    attr_accessor :name, :email 
    
    @@all = []
-  end
+  end 
    
    
    def initialize(cv_email)
